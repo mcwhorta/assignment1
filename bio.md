@@ -8,3 +8,4 @@ Interests
 -Japanese language
 
 Programming Background
+-Experience coding in C, C++, Java, MATLAB, Python, and MASM.
