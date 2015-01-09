@@ -11,3 +11,5 @@ Interests
 -Sports
 
 Programming Background
+-Experience coding in C, C++, Java, MATLAB, Python, and MASM.
+-Current research involves image analysis of hair.
