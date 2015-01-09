@@ -9,6 +9,7 @@ Interests
 -Computer forensic science
 -Japanese language
 -Sports
+-World news
 
 Programming Background
 -Experience coding in C, C++, Java, MATLAB, Python, and MASM.
